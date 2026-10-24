@@ -1,0 +1,11 @@
+# Documentos autogenerados por Pandoc
+*.docx
+*.pdf
+
+# Documentación web autogenerada y ejecutable de PHPDoc
+docs/
+phpDocumentor.phar
+
+# Sistema operativo y archivos temporales
+.DS_Store
+Thumbs.db
