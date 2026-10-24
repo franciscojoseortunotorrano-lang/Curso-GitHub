@@ -17,6 +17,6 @@ function precioConIva($precio, $iva) {
  * @return float
  */
 function descuentoFran($precio, $descuento){
-    return $precio - ($precio*($descuento/100)) hola(
+    return $precio - ($precio*($descuento/100));
 }
 ?>
